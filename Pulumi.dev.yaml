@@ -1,0 +1,5 @@
+encryptionsalt: v1:9oPxR/BF7C0=:v1:YU5L78j4iIAz6VE8:Pmkm7QPWT+nEINCv9MS8T7cy0mwktA==
+config:
+  aws:region: ap-northeast-2
+backend:
+  url: file://~/.pulumi-local
